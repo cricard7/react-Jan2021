@@ -4,6 +4,7 @@ import React from 'react'
 
 const Counter = () => {
 //useState - create a reactive variable and a way to affect it
+//destructuring
 const [count, setCount] = React.useState(5)
 //one way to do it. See 
 const handleIncrement = () => {

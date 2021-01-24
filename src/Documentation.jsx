@@ -6,8 +6,7 @@ function Documentation() {
     
     return (
       <React.Fragment>
-        Documentation
-        <button>This is a button</button>
+        Documentation component
       </React.Fragment>
     );
   }
